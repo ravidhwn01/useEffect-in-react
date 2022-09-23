@@ -1,9 +1,10 @@
+import ComA from "./ComA";
 
 
 function App() {
   return (
    <>
-    <h1>hello bro!</h1>
+    <ComA/>
    </>
   );
 }
